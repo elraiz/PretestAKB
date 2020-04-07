@@ -71,7 +71,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/inputkode"
         android:layout_width="match_parent"
         android:layout_height="35dp"
         android:layout_marginHorizontal="20dp"
@@ -102,10 +102,10 @@
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editText3" />
+        app:layout_constraintTop_toBottomOf="@+id/inputkode" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn_masuk"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="20dp"
