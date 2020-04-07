@@ -2,5 +2,21 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#00574B</color>
+    <color name="Gunmetal">#525B60</color>
+    <color name="Coolgrey">#BABABB</color>
+    <color name="Butterscotch">#FCB93A</color>
+    <color name="Blueberry">#482D7E</color>
+    <color name="Lavenderblue">#8084F6</color>
+    <color name="Purpleishblue">#494DEA</color>
+    <color name="Black87">#000000</color>
+    <color name="Sunyellow">#FFE41E</color>
+    <color name="Sunflower">#FFC50D</color>
+    <color name="White">#DEDEDE</color>
+    <color name="White2">#F2F2F2</color>
+    <color name="Black3">#202020</color>
+    <color name="White3">#F8F8F8</color>
+    <color name="Browngrey87">#A7A7A7</color>
+    <color name="Browngrey">#A7A7A7</color>
+    <color name="Warmblue">#3E43E9</color>
 </resources>
